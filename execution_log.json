@@ -1,0 +1,610 @@
+[
+    {
+        "Path":  "C:\\Program Files\\Common Files",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\internet explorer",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Defender Advanced Threat Protection",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Mail",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Media Player",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Multimedia Platform",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\windows nt",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Photo Viewer",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Portable Devices",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Security",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\Services",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\system",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\MSInfo",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\Stationery",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\TextConv",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\Triedit",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\vgx",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\ar-SA",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\bg-BG",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\cs-CZ",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\da-DK",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\de-DE",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\el-GR",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\en-GB",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\es-ES",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\es-MX",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\et-EE",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fi-FI",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fr-CA",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fr-FR",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fsdefinitions",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\he-IL",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\hr-HR",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\hu-HU",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\HWRCustomization",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\it-IT",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\ja-JP",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\ko-KR",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\LanguageModel",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\lt-LT",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\lv-LV",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\nb-NO",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\nl-NL",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\pl-PL",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\pt-BR",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\pt-PT",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\ro-RO",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\ru-RU",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\sk-SK",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\sl-SI",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\sr-Latn-RS",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\sv-SE",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\th-TH",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\tr-TR",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\uk-UA",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\zh-CN",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\zh-TW",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fsdefinitions\\auxpad",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fsdefinitions\\insert",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fsdefinitions\\keypad",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fsdefinitions\\main",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fsdefinitions\\oskclearui",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fsdefinitions\\oskmenu",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fsdefinitions\\osknav",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fsdefinitions\\osknumpad",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fsdefinitions\\oskpred",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fsdefinitions\\symbols",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\MSInfo\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\TextConv\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\microsoft shared\\Triedit\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\system\\ado",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\system\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\system\\msadc",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\system\\ole db",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\system\\ado\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\system\\msadc\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Common Files\\system\\ole db\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\internet explorer\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\internet explorer\\images",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\internet explorer\\SIGNUP",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Defender\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Defender\\Offline",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Defender Advanced Threat Protection\\Classification",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Defender Advanced Threat Protection\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Defender Advanced Threat Protection\\Classification\\Dprt",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Defender Advanced Threat Protection\\Classification\\Dprt\\x64",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Media Player\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Media Player\\Media Renderer",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Media Player\\Network Sharing",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Media Player\\Skins",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Media Player\\Visualizations",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\windows nt\\accessories",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\windows nt\\tabletextservice",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\windows nt\\accessories\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\windows nt\\tabletextservice\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Photo Viewer\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Security\\BrowserCore",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\Windows Security\\BrowserCore\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Configuration",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Configuration\\Registration",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Configuration\\Schema",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PackageManagement",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Pester",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PowerShellGet",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PSReadline",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Diagnostics",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Diagnostics\\Comprehensive",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Diagnostics\\Simple",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example1.Diagnostics",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example2.Diagnostics",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example3.Diagnostics",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example1.Diagnostics\\Diagnostics",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example1.Diagnostics\\Diagnostics\\Simple",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example2.Diagnostics\\1.0.1",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example2.Diagnostics\\1.0.1\\Diagnostics",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example2.Diagnostics\\1.0.1\\Diagnostics\\Simple",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example3.Diagnostics\\1.1.1",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example3.Diagnostics\\2.0.1",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example3.Diagnostics\\1.1.1\\Diagnostics",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example3.Diagnostics\\1.1.1\\Diagnostics\\Simple",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example3.Diagnostics\\2.0.1\\Diagnostics",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Test\\Modules\\Example3.Diagnostics\\2.0.1\\Diagnostics\\Simple",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\DSCResources",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\en",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\DSCResources\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\DSCResources\\MSFT_PackageManagement",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\DSCResources\\MSFT_PackageManagementSource",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\DSCResources\\MSFT_PackageManagement\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\DSCResources\\MSFT_PackageManagementSource\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Pester\\3.4.0",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Pester\\3.4.0\\bin",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Pester\\3.4.0\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Pester\\3.4.0\\Examples",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Pester\\3.4.0\\Functions",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Pester\\3.4.0\\Snippets",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Pester\\3.4.0\\Examples\\Calculator",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Pester\\3.4.0\\Examples\\Validator",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\Pester\\3.4.0\\Functions\\Assertions",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\en-US",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PSReadline\\2.0.0",
+        "Success":  false
+    },
+    {
+        "Path":  "C:\\Program Files\\WindowsPowerShell\\Modules\\PSReadline\\2.0.0\\en",
+        "Success":  false
+    }
+]
